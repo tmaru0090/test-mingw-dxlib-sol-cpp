@@ -1,0 +1,2 @@
+LUASCRIPT初期化しましたー
+LUASCRIPT終了しましたー

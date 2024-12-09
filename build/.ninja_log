@@ -1,0 +1,6 @@
+# ninja log v6
+23	7381	7554654673600000	src/CMakeFiles/main.dir/main.cpp.obj	71bb33ed0b5387a1
+22	12265	7554679850300000	src/CMakeFiles/main.dir/game.cpp.obj	ecdd6d788e5c782e
+8939	12045	7554636060000000	bin/main.exe	ed6d1755a206bbbf
+12272	17046	7554679980000000	E:/windows/program/c-cpp/test-dxlib-sol-cpp/bin/main.exe	c1ab22bdb4569080
+30	2780	7554679420000000	src/CMakeFiles/main.dir/dxlib_glue_code.cpp.obj	410245e29ffceaf3
